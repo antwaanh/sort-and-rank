@@ -1,0 +1,17 @@
+{
+  "name": "sort-and-rank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
